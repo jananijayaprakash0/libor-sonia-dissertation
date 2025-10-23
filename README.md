@@ -14,4 +14,4 @@ The analysis was conducted using **MATLAB**, focusing on:
 - Volatility patterns under SONIA exhibited lower dispersion compared to LIBOR across similar maturities.  
 - Pricing divergence was most pronounced during periods of market stress and transition uncertainty.  
 - Findings support improved understanding of model calibration and risk management under benchmark rate reform.  
-**Full Paper:** [Dissertation_Janani_Jayaprakash.pdf]./[Dissertation_Janani_Jayaprakash.pdf]
+**Full Paper:** Dissertation_Janani_Jayaprakash.pdf](./Dissertation_Janani_Jayaprakash.pdf)
